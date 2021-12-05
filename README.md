@@ -38,7 +38,7 @@
     <a href="https://github.com/jondagamkd/SocialNetwork-API"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="/">View Video</a>
+    <a href="https://watch.screencastify.com/v/ax3ftUrDH8UYDXCWOEEv">View Video</a>
     ·
     <a href="https://github.com/GarciaE89/SocialNetwork-API/issues">Report Bug</a>
     ·
